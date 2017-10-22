@@ -1,0 +1,10 @@
+[package]
+name = "image_fft"
+version = "0.1.0"
+authors = ["Chase McCarthy <chase@code0100fun.com>"]
+
+[dependencies]
+rustfft = "2.0.0"
+
+[dev-dependencies]
+gnuplot = "0.0.23"
